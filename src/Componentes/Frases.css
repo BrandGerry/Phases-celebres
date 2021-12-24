@@ -1,0 +1,17 @@
+.Card{
+    margin: auto;
+    border: solid 3px;
+    border-radius: 10px;
+    background: wheat;
+    padding: 5px;
+}
+
+button{
+    border-radius: 50%;
+    width: 35px;
+    height: 35px;
+    text-align: center;
+    margin: 5px;
+    border: rgb(92, 60, 153) solid 2px;
+}
+
